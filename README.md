@@ -1,8 +1,8 @@
-<h1> A Generic Approach to Identify Sector Specific Critical Information Infrastructure <h1>
+<h1> A Generic Approach to Identify Sector Specific Critical Information Infrastructure </h1>
   
  The approach factors data that is publicly available on Volume and Value for identification of critical infrastucture in a critical sector
    
-<h2> Critical Information Infrastructure - Volume and Value Tool <h2>
+<h2> Critical Information Infrastructure - Volume and Value Tool </h2>
   
  a) A tool that extracts data into a MS-Access DB (this is used as it is generally available for most of the users and easy to handle with basic understanding of technology.
  b) The data from MS-Access is copied into MS-Excel for rank aggregation. This can also continue to be in MS-Access
