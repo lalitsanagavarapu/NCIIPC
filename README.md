@@ -4,9 +4,9 @@
    
 <h2> Critical Information Infrastructure - Volume and Value Tool </h2>
   
- a) A tool that extracts data into a MS-Access DB (this is used as it is generally available for most of the users and easy to handle with basic understanding of technology.
+ a) Load data into a MS-Access DB (this is used as it is generally available for most of the users and easy to handle with basic understanding of technology.
  <br>
- b) The data from MS-Access is copied into MS-Excel for rank aggregation. This can also continue to be in MS-Access
+ b) The data from MS-Access is copied into MS-Excel (CII-Assesment) for rank aggregation. This can also continue to be in MS-Access
  <br>
  c) Rank Aggregation (https://github.com/lalitsanagavarapu/NCIIPC/blob/master/rankagg_nciipc.py) and Kendal Tau methods (https://github.com/lalitsanagavarapu/NCIIPC/blob/master/kendaltau.py) are used to identify the top most ranks in critical infrastructure
  <br>
